@@ -14,7 +14,7 @@ Exemplet visar en **inköpsorder-process** där en order skickas, väntar på be
 
 ---
 
-## 🛠️ Test
+## Script för att testa
 
 Kör nedan CURL-anrop för att starta processen och skicka in en Purchase Order
 ```
